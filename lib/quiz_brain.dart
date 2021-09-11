@@ -1,7 +1,4 @@
-import 'package:flutter/cupertino.dart';
-
 import 'question.dart';
-import 'package:rflutter_alert/rflutter_alert.dart';
 
 class QuizBrain {
   int _questionNumber = 0;
